@@ -6,7 +6,7 @@ const ContainerB = () => {
   return (
     <>
       <hr />
-      <h4>component B</h4>
+      <h4> hello component = B</h4>
       <h4>{data}</h4>
       <hr />
     </>
